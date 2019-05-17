@@ -1,0 +1,40 @@
+body
+{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.dev
+{
+    font-size: 20px;
+
+}
+.icon
+{
+    font-size: 15px;
+    line-height: 25px;
+}
+.col
+{
+    color:black;
+    background-color: cornsilk;
+    line-height: 25px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.col p
+{
+    font-size: 17px;
+}
+.footer p
+{
+    font-size: 20px;
+    color: white;
+}
+.footer i
+{
+    font-size: 25px;
+    letter-spacing: 15px;
+}
+.copyright p
+{
+    padding-top: 15px;
+}
+
