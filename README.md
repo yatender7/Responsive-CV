@@ -1,2 +1,2 @@
 # Responsive-CV
-# this is a responsive cv developed using HTML,CSS and BOOTSTRAP.
+# This is a responsive CV developed using HTML,CSS and BOOTSTRAP.
